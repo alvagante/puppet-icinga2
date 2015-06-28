@@ -1,6 +1,14 @@
 #puppet-icinga2
 - - -
 
+## DEPRECATION NOTICE
+This module is no more actively maintained and will hardly be updated.
+
+Please find an alternative module from other authors or consider [Tiny Puppet](https://github.com/example42/puppet-tp) as replacement.
+
+If you want to maintain this module, contact [Alessandro Franceschi](https://github.com/alvagante)
+
+
 ## Overview
 
 This module installs and configures the [Icinga 2 monitoring system](https://www.icinga.org/icinga2/). It can also install and configure [NRPE](http://exchange.nagios.org/directory/Addons/Monitoring-Agents/NRPE--2D-Nagios-Remote-Plugin-Executor/details) on client systems that are being monitored by an Icinga 2 server.
